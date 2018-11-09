@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ImageView
+        android:layout_margin="10dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@mipmap/ic_launcher"
+        android:id="@+id/renglon_img"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginBottom="10dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="0dp"
+        android:paddingBottom="0dp"
+        android:id="@+id/tv_comentario"
+        android:text="Hola a todos soy un comentario de prueba para observar que encaje la diagramaciónHola a todos soy un comentario de prueba para observar que encaje la diagramaciónHola a todos soy un comentario de prueba para observar que encaje la diagramaciónHola a todos soy un comentario de prueba para observar que encaje la diagramación" />
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_margin="10dp"
+        android:id="@+id/like_btn"
+        android:text="L"/>
+
+</RelativeLayout>
+
+
+

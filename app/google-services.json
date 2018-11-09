@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "872934467071",
+    "firebase_url": "https://login-414c7.firebaseio.com",
+    "project_id": "login-414c7",
+    "storage_bucket": "login-414c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872934467071:android:ea6b30f83035af0e",
+        "android_client_info": {
+          "package_name": "icesi.movil.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872934467071-qf4gnojc5vqic68ni625d9c6eu08elam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "icesi.movil.login",
+            "certificate_hash": "5298e02488e4452e4fa050e9f4fb3e22e6c71422"
+          }
+        },
+        {
+          "client_id": "872934467071-ulcqnmnq8lt3paqjcro4q4ebcqdu1un2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlF0OwzZtR7eAEt9n7xpxksOM1qyreYP8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872934467071-ulcqnmnq8lt3paqjcro4q4ebcqdu1un2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
